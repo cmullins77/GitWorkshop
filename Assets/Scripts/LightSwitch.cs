@@ -2,6 +2,7 @@
     using UnityEngine;
 
     //comment!!!!
+    //new comment
     public class LightSwitch : MonoBehaviour {
 
         public GameObject lightSwitch;
