@@ -1,6 +1,7 @@
 ﻿namespace GitWorkshop {
     using UnityEngine;
 
+    //comment!!!!
     public class LightSwitch : MonoBehaviour {
 
         public GameObject lightSwitch;
